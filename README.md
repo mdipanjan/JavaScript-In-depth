@@ -3,14 +3,10 @@
 </div>
 
 <div align="center">
-	<h3>JavScript Concepts by topic</h3>
+	<h2>JavScript concepts by topic</h2>
 	
-| Topics        | Type           | Type  |
-| :------------ |:-------------| :-----|
-| [Primitives](./concepts/primitives.md)      | |  |
-| Functions    |       |    |
-| Objects |       |     |
-| Promise/ Async |     |     |
-| DOM |       |     |
-| Miscellaneous |    |    |
+| Primitives        | Functions           | Objects  | Promises  | Dom  | 
+| :------------     |:-------------       | :-----   | :-----   |:-----   |
+| [Concepts](./concepts/primitives.md)| [Concepts](./concepts/functions.md)|   [Concepts](./concepts/objects.md)    | [Concepts](./concepts/promises.md) | [Concepts](./concepts/promises.md) | 
+
 </div>
