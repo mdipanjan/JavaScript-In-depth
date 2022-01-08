@@ -19,7 +19,8 @@
 
 
 
-###  Q1. What are Arrow functions in JavaScript and how it is different from normal functions.
+###  Q1. 
+### What are Arrow functions in JavaScript and how it is different from normal functions.
 
 An arrow function is a compact and alternate way of writing function expression.
 
@@ -102,7 +103,8 @@ How it differs from regular functions:
 
 <!-- ###  Q2. What is a pure function and side effect. -->
 
-###  Q3. What are Higher-Order functions.
+### Q3. 
+### What are Higher-Order functions.
 
 A `Higher-order` function is noting but a regular function which can take a function as an argument or can return a function as a value.
 
