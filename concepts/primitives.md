@@ -1,1 +1,1 @@
-#fgfg
+Why do we use “use strict”

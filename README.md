@@ -5,8 +5,8 @@
 <div align="center">
 	<h2>JavScript concepts by topic</h2>
 	
-| Primitives        | Functions           | Objects  | Promises  | Dom  | 
-| :------------     |:-------------       | :-----   | :-----   |:-----   |
+| Primitives        | Functions           | Objects  | Promises  | Promises  |  miscellaneous | 
+| :------------     |:-------------       | :-----   | :-----   |:-----   |:-----   |
 | [Concepts](./concepts/primitives.md)| [Concepts](./concepts/functions.md)|   [Concepts](./concepts/objects.md)    | [Concepts](./concepts/promises.md) | [Concepts](./concepts/promises.md) | 
 
 </div>
