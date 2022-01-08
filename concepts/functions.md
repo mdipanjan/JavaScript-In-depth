@@ -228,4 +228,17 @@ So now we're having similar structure like before, and passing data as the first
 If we had to do add or decrement we can do it easily and we can just introduce seperate pure functions for those. 
 
 
+**Built-In Higher-order functions in JavaScript:**
+
+Many of the popular array methods are Higher-order functions basically. `map`, `reduce`, `filter` these are HoF. They take a function as an argument and operate on the array elements.
+
+```js
+  let data = [10,20,30,40];
+
+  let final = data.map(function(item){
+    return item * 2;
+  })
+  // [20,40,60,80]
+```
+
 
