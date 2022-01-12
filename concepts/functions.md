@@ -6,14 +6,15 @@
 1. [What are Higher-Order functions.](#Q3)
 1. [What is a first class function.](#Q4)
 1. [What is a first order function.](#Q5)
-1. [What is an IIFE or Immediately Invoked Function Expression.](#Q6)
-1. [What is call/apply/bind.](#Q7)
+1. [How this works in JavaScript](#Q6)
+1. [What are Javascript: call(), apply() and bind()](#Q7)
 1. [What is closure in JavaScript](#Q8)
 1. [What is currying function.](#Q9)
-1. [Pollyfills for in built functions](#Q10)
+1. [Pollyfills for built-in functions](#Q10)
 1. [some, find, includes and other in built Javascript methods](#Q11)
 1. [Split, Replace, Splice, Slice](#Q12)
 1. [What is an Eval Function](#Q13)
+1. [What is an IIFE or Immediately Invoked Function Expression.](#Q13)
 
 
 
@@ -243,4 +244,16 @@ Many of the popular array methods are Higher-order functions basically. `map`, `
   // [20,40,60,80]
 ```
 
+
+
+
+
+###  Q6. 
+### How this works in JavaScript.
+In JavaScript `this` is a confusing topic, so we're going to discuss about it in deatils. 
+Here the value of `this` depends on how we're calling the function. Let's see some example.
+
+```js
+
+```
 
