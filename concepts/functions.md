@@ -195,7 +195,7 @@ So we're dupliacting the logic, we can do it like this
   // [5,10,2,4]
  
 ```
-Now our problem is solved, but we'retaking more parameters and if we want to do addition, deletion we need to make some more `if` `else` conditions. Which will make our code covoluted. So now we can use the power of `Higher-order` function here.
+Now our problem is solved, but we're taking more parameters and if we want to do addition, deletion we need to make some more `if` `else` conditions. Which will make our code covoluted. So now we can use the power of `Higher-order` function here.
 
 ```js
 
